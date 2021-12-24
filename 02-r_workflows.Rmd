@@ -1,0 +1,9 @@
+# R Workflows
+
+## Using Python in R Notebooks
+
+
+## R Packages with Python
+
+- Probably its own chapter
+

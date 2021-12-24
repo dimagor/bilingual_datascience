@@ -1,0 +1,29 @@
+# Setup
+
+It's all about environment setup.
+
+
+## R 
+
+### R Environments
+
+- Installing R
+- R environment
+
+### Connecting Python to R
+
+- .Rproj settings
+- Configuring RMarkdown to use python
+- Leveraging Scripts
+
+## Python 
+
+### Python Environments
+
+- poetry
+- virtualenv
+- pipenv
+- conda
+- bonus: reticulate::install_miniconda
+
+### Connection R to Python
