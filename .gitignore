@@ -1,3 +1,7 @@
 .Rhistory
 .Rproj.user
 _book*
+venv/
+.ipynb_checkpoints
+.DS_Store
+.idea/
